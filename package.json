@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "eslint": "^9.7.0",
+    "globals": "^15.8.0"
   }
 }
